@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://komuchi.github.io/sitemap.txt.gz
+Sitemap: https://komuchi.github.io/sitemap/sitemap_index.txt.gz
